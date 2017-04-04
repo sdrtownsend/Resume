@@ -19,39 +19,42 @@
 
 <script type="text/javascript">
 	function redirect() {
-	var text = document.getElementById("txtInput").value; //by id
-    switch(text) {
-	    case "txt":
-		    window.location.href="http://www.mytextarea.com/"
-		    break;
-	    case "resume":
-		    window.location.href="https://sdrtownsend.github.io/my/resume.html"
-		    break;
-	    case "github":
-		    window.location.href = "https://github.com/login"
-		    break;
-	    case "simple":
-		    window.location.href = "https://simple.com/signin"
-		    break;
-	    case "portal":
-		    window.location.href = "https://portal.midmich.edu/singlesignon/sso.php"
-		    break;
-	    case "midweb":
-		    window.location.href = "https://midweb.midmich.edu/mw/mw?TOKENIDX=3753818919&type=P&pid=UT-LGRQ"
-		    break;
-	    case "moodle":
-		    window.location.href = "https://moodle.midmich.edu/login/index.php"
-		    break;		    
-	    case "amazon":
-		    window.location.href = "https://www.amazon.com/gp/navigation/redirector.html/ref=sign-in-redirect?"
-		    break;
-	    case "imdb":
-		    window.location.href = "https://www.amazon.com/ap/oa?client_id=amzn1.application-oa2-client.d485efbf67b343dbaa049b413409f7f6&scope=profile&response_type=code&tag=imdbtag_reg-20&state=eyI0OWU2YyI6ImU1OGIiLCJ1IjoiaHR0cHM6Ly93d3cuaW1kYi5jb20vP3JlZl89bG9naW4iLCJtYW51YWxMaW5rIjoiZmFsc2UifQ&redirect_uri=https%3A%2F%2Fwww.imdb.com%2Fregistration%2Famazonhandler"
-		    break;
-	    default:
-		    
-   	}
-    document.getElementById("txtInput").value = "";
+		var text = document.getElementById("txtInput").value; //by id
+		<input type="file" id="short" name="short.txt" multiple />
+		<!--
+		switch(text) {
+		    case "txt":
+			    window.location.href="http://www.mytextarea.com/"
+			    break;
+		    case "resume":
+			    window.location.href="https://sdrtownsend.github.io/my/resume.html"
+			    break;
+		    case "github":
+			    window.location.href = "https://github.com/login"
+			    break;
+		    case "simple":
+			    window.location.href = "https://simple.com/signin"
+			    break;
+		    case "portal":
+			    window.location.href = "https://portal.midmich.edu/singlesignon/sso.php"
+			    break;
+		    case "midweb":
+			    window.location.href = "https://midweb.midmich.edu/mw/mw?TOKENIDX=3753818919&type=P&pid=UT-LGRQ"
+			    break;
+		    case "moodle":
+			    window.location.href = "https://moodle.midmich.edu/login/index.php"
+			    break;		    
+		    case "amazon":
+			    window.location.href = "https://www.amazon.com/gp/navigation/redirector.html/ref=sign-in-redirect?"
+			    break;
+		    case "imdb":
+			    window.location.href = "https://www.amazon.com/ap/oa?client_id=amzn1.application-oa2-client.d485efbf67b343dbaa049b413409f7f6&scope=profile&response_type=code&tag=imdbtag_reg-20&state=eyI0OWU2YyI6ImU1OGIiLCJ1IjoiaHR0cHM6Ly93d3cuaW1kYi5jb20vP3JlZl89bG9naW4iLCJtYW51YWxMaW5rIjoiZmFsc2UifQ&redirect_uri=https%3A%2F%2Fwww.imdb.com%2Fregistration%2Famazonhandler"
+			    break;
+		    default:
+		
+		}
+		-->
+		document.getElementById("txtInput").value = "";
 }
 </script>
 
