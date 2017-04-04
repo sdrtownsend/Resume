@@ -21,6 +21,9 @@
 	function redirect() {
 	var text = document.getElementById("txtInput").value; //by id
     switch(text) {
+	    case "text":
+		    window.location.href="data:text/html, <html contenteditable>"
+		    break;
 	    case "resume":
 		    window.location.href="https://sdrtownsend.github.io/my/resume.html"
 		    break;
@@ -36,6 +39,9 @@
 	    case "midweb":
 		    window.location.href = "https://midweb.midmich.edu/mw/mw?TOKENIDX=3753818919&type=P&pid=UT-LGRQ"
 		    break;
+	    case "moodle":
+		    window.location.href = "https://moodle.midmich.edu/login/index.php"
+		    break;		    
 	    case "amazon":
 		    window.location.href = "https://www.amazon.com/gp/navigation/redirector.html/ref=sign-in-redirect?"
 		    break;
