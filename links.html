@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<body onload="test1();">
+
+
+<input type = "input"
+       id = "txtInput" 
+       onkeydown = "if (event.keyCode == 13)
+                        test2();"    
+/>
+
+<script type="text/javascript">
+	function test1() {
+	//var text = document.getElementById("txtInput").value;
+    //window.alert("it should say this on load");
+}
+</script>
+
+<script type="text/javascript">
+	function test2() {
+	var text = document.getElementById("txtInput").value; //by id
+    switch(text) {
+    	case "resume":
+   			window.location.href="https://sdrtownsend.github.io/my/resume.html"
+        	break;
+    	case "github":
+        	window.location.href = "https://github.com/login"
+        	break;
+    	default:
+       		
+   
+	}
+    document.getElementById("txtInput").value = "";
+}
+</script>
+
+</body>
+</html>
