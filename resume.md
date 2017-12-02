@@ -7,9 +7,11 @@
 > [linkedin.com/in/shawn-townsend/](https://www.linkedin.com/in/shawn-townsend/)  
 > [127localhost.com](http://127localhost.com)  
 
+
+
 ## Experience ##
 ******************************
-| IT Consultant & CEO | Jul 2016 - Present |
+| IT Consultant & CEO   | Jul 2016 - Present |
 |-----------------------|-------------------:|
 | Localhost LLC         |                    |
 
@@ -20,6 +22,7 @@ We provide IT as a Service to local small businesses:
 * PC Troubleshooting and Repair
 * Systems Administration
 
+
 | Online Eductional Technology Intern | May 2017 - Present |
 |-------------------------------------|-------------------:|
 | Mid Michigan Community College      |                    |
@@ -28,6 +31,7 @@ We provide IT as a Service to local small businesses:
 * Develop technical documentation for staff, faculty, and students
 * Develop training resources in the LMS
 * Research educational technologies
+
 
 | Library Intern and Computer Tutor | Aug 2013 - May 2017 |
 |-----------------------------------|--------------------:|
@@ -39,11 +43,15 @@ We provide IT as a Service to local small businesses:
 * Created signs, posters, banners, and other documents to promote college services.
 * Created student ID's and assisted patrons.
 
+
+
 ## Skills ##
 ******************************
 **Applications:** Google Docs | LibreOffice | Microsoft Office  
 **Computer Languages:** CSS | HTML | Javascript | Markdown  
 **Operating Systems:** Android | Ubuntu | Windows 7/8/10  
+
+
 
 ## Certifications ##
 ******************************
@@ -51,13 +59,13 @@ We provide IT as a Service to local small businesses:
 |----------------------------------|---------:|
 | Microsoft                        |          |
 
+
+
 ## Education ##
 ******************************
 | Assoc in Computer Information Systems | Aug 2012 - May 2016 |
 |---------------------------------------|--------------------:|
 | Mid Michigan Community College        |                     |
-
-
 
 
 
