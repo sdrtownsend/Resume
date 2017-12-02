@@ -67,6 +67,6 @@ We provide IT as a Service to local small businesses:
 |:------------------------------------------|:--------------------------------------|:-----------------------------|
 | Director of Library and Learning Services | LMS & Learning Technology Coordinator | Full Time Faculty Instructor |
 | cgoethe@midmich.edu                       | jhoerauf@midmich.edu                  | cgoffnett@midmich.edu        |
-| (989) 386-6622 Ext. 288                   | 989-317-4603                          | 989-317-4607                 |
+| 989.386.6622 Ext. 288                     | 989.317.4603                          | 989.317.4607                 |
 
 </div>
