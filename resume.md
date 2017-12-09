@@ -47,9 +47,13 @@ We provide IT as a Service to local small businesses:
 
 ## Skills ##
 ******************************
-**Applications:** Google Docs | LibreOffice | Microsoft Office  
+**Administration:** Windows Server | Moodle LMS  
+**Communication Software:** Google Hangouts | Slack | Zoom  
 **Computer Languages:** CSS | HTML | Javascript | Markdown  
+**Data Storage & Repositories:** Bitbucket | Github | Google Drive  
+**Office Suites:** G Suite | LibreOffice | Microsoft Office  
 **Operating Systems:** Android | Ubuntu | Windows 7/8/10  
+**Project Management Software:** Trello | SolarWinds Help Desk  
 
 
 
