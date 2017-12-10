@@ -18,28 +18,38 @@ body {
   padding: 35px;
   margin: 0 auto 15px auto;
   overflow: hidden;
-
   box-shadow: 0 0 6px #ccc;
 }
 
-blockquote {
-  position: relative;
-  left: 25%;
+@media print {
+
+  @page {
+    margin: 1.27cm;
+  }
+
+  body {
+    background: #fff;
+    padding: 0px;
+    margin: 0px;
+  }
+
+  #page {
+    page-break-after: always;
+    width: inherit;
+    padding-top: 35px;
+    margin: 0px;
+    overflow: hidden;
+    box-shadow: none;
+  }
 
 }
+
 h1 {
   padding: 0;
 	font-size: 500%;
   margin-top: 25px;
   margin-bottom: 50px;
   font-weight: normal;
-  float: left;
-}
-
-h2, h3,{
-	margin-top: 20px;
-  font-weight: normal;
-  float: left;
 }
 
 h2 {
@@ -48,17 +58,13 @@ h2 {
   margin-bottom: 0px
 }
 
-h3 {
-	font-size: 150%;
-}
-
 p {
 	margin-bottom: 10px;
-
 }
 
 hr {
   margin-bottom: 15px;
+  width: 100%;
 }
 table {
   margin: 0 0 15px 0;

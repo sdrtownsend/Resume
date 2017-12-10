@@ -1,15 +1,17 @@
 <div id="page">
 
-# Shawn Townsend #
 
-> 650.701.7848  
-> sdrtownsend@gmail.com  
-> [linkedin.com/in/shawn-townsend/](https://www.linkedin.com/in/shawn-townsend/)  
-> [127localhost.com](http://127localhost.com)  
+# Shawn Townsend
 
 
+650.701.7848  
+sdrtownsend@gmail.com  
+[www.linkedin.com/in/shawn-townsend](https://www.linkedin.com/in/shawn-townsend)  
+[127localhost.com](http://127localhost.com)  
 
-## Experience ##
+
+
+## Experience
 ******************************
 | IT Consultant & CEO   | Jul 2016 - Present |
 |-----------------------|-------------------:|
@@ -23,7 +25,7 @@ We provide IT as a Service to local small businesses:
 * Systems Administration
 
 
-| Online Eductional Technology Intern | May 2017 - Present |
+| Online Educational Technology Intern | May 2017 - Present |
 |-------------------------------------|-------------------:|
 | Mid Michigan Community College      |                    |
 
@@ -43,29 +45,7 @@ We provide IT as a Service to local small businesses:
 * Created signs, posters, banners, and other documents to promote college services.
 * Created student ID's and assisted patrons.
 
-
-
-## Skills ##
-******************************
-**Administration:** Windows Server | Moodle LMS  
-**Communication Software:** Google Hangouts | Slack | Zoom  
-**Computer Languages:** CSS | HTML | Javascript | Markdown  
-**Data Storage & Repositories:** Bitbucket | Github | Google Drive  
-**Office Suites:** G Suite | LibreOffice | Microsoft Office  
-**Operating Systems:** Android | Ubuntu | Windows 7/8/10  
-**Project Management Software:** Trello | SolarWinds Help Desk  
-
-
-
-## Certifications ##
-******************************
-| MTA 98-367 Security Fundamentals | Nov 2017 |
-|----------------------------------|---------:|
-| Microsoft                        |          |
-
-
-
-## Education ##
+## Education
 ******************************
 | Assoc in Computer Information Systems | Aug 2012 - May 2016 |
 |---------------------------------------|--------------------:|
@@ -73,7 +53,43 @@ We provide IT as a Service to local small businesses:
 
 
 
-## References ##
+
+</div><div id="page"> <!-- This is a comment -->
+
+
+
+## Skills
+******************************
+~~~
+| ADMINISTRATION       | COMMUNICATION SOFTWARE | COMPUTER LANGUAGES |
+|:---------------------|:-----------------------|:-------------------|
+| Windows Server       | Google Hangouts        | CSS                |
+| Moodle LMS           | Slack                  | HTML               |
+|                      | Zoom                   | Javascript         |
+|                      |                        | Markdown           |
+
+| DATA STORAGE         | OFFICE SUITES          | OPERATING SYSTEMS  
+|:---------------------|:-----------------------|:-------------------|
+| Bitbucket            | G Suite                | Android            |
+| Github               | LibreOffice            | Ubuntu             |
+| Google Drive         | Microsoft Office       | Windows 7/8/10     |
+
+| PROJECT MANAGEMENT   |
+|:---------------------|
+| Trello               |
+| SolarWinds Help Desk |
+|                      |
+~~~
+
+
+## Certifications
+******************************
+| MTA 98-367 Security Fundamentals | Nov 2017 |
+|----------------------------------|---------:|
+| Microsoft                        |          |
+
+
+## References
 ******************************
 | Corey Goethe                              | Jon Hoerauf                           | Chris Goffnet                |
 |:------------------------------------------|:--------------------------------------|:-----------------------------|
